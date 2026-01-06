@@ -20,7 +20,7 @@ Este perfil de GitHub está orientado exclusivamente a trabajo técnico y format
 Proyecto en Java desarrollado con una arquitectura por capas, centrado en separar responsabilidades y facilitar la evolución del sistema.
 
 El proyecto se trabaja siguiendo una planificación por tareas, con decisiones técnicas razonadas y documentación continua del proceso.  
-Actualmente no es un proyecto público, ya que se encuentra en desarrollo activo y en constante evolución.
+Actualmente es un proyecto privado, ya que se encuentra en desarrollo activo y en constante evolución.
 
 ### Repositorio de gestión de proyecto
 Repositorio dedicado a la **gestión del proyecto**, independiente del código, donde se documentan:
