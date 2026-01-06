@@ -22,6 +22,13 @@ Proyecto en Java desarrollado con una arquitectura por capas, centrado en separa
 El proyecto se trabaja siguiendo una planificación por tareas, con decisiones técnicas razonadas y documentación continua del proceso.  
 Actualmente es un proyecto privado, ya que se encuentra en desarrollo activo y en constante evolución.
 
+### JavaProgrammingFundamentals
+Repositorio donde recojo y documento ejercicios de clase de Java, con un enfoque en comprender los fundamentos del lenguaje y en justificar las decisiones técnicas tomadas durante su desarrollo.
+
+Cada ejercicio se acompaña de documentación explicativa, con el objetivo de reforzar buenas prácticas, claridad en el razonamiento y capacidad de defensa técnica más allá de que el código funcione.
+
+Repositorio: [JavaProgrammingFundamentals](https://github.com/destronao/JavaProgrammingFundamentals)
+
 ### Repositorio de gestión de proyecto
 Repositorio dedicado a la **gestión del proyecto**, independiente del código, donde se documentan:
 - planificación y roadmaps
